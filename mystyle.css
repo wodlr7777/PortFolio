@@ -32,6 +32,12 @@ ul{
 	margin-bottom: 200px;
 	line-height: 25px;
 }
+.project{
+	display: flex;
+}
+.project img{
+	margin-right:50px;
+}
 .image {
     position: absolute;
     width: 100%;
