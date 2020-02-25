@@ -24,6 +24,10 @@ ul{
 .main-wrap h1{
 		text-align: center;
 }
+.main-wrap img{
+	width:1200px;
+	height:500px;
+}
 .project img{
 	width:650px;
 	height:450px;
